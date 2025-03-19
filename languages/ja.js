@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "TANVIR により開発 | Scout Music v1.2",
+    footer: "Berlin により開発 | Razeen Music v1.2",
     ping: {
       description: "ボットの応答時間を確認",
       response: "応答時間を計測中...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- ボット応答時間：**{latency}ミリ秒**",
         websocketPing: "- WebSocket応答時間：**{ping}ミリ秒**",
         uptime: "- 稼働時間：**{uptime}**",
-        footer: "TANVIR により開発 | Scout Music v1.2"
+        footer: "Berlin により開発 | Razeen Music v1.2"
       }
     },
     addsong: {
