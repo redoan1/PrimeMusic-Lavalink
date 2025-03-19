@@ -1,5 +1,5 @@
 module.exports = {
-    footer: "TANVIR تم التطوير بواسطة | Scout Music v1.2",
+    footer: "Berlin تم التطوير بواسطة | Razeen Music v1.2",
     ping: {
       description: "فحص تأخير البوت",
       response: "جاري قياس التأخير...",
@@ -8,7 +8,7 @@ module.exports = {
         responseTime: "- وقت استجابة البوت: **{latency}ms**",
         websocketPing: "- تأخير WebSocket: **{ping}ms**",
         uptime: "- مدة التشغيل: **{uptime}**",
-        footer: "TANVIR تم التطوير بواسطة | Scout Music v1.2"
+        footer: "Berlin تم التطوير بواسطة | Razeen Music v1.2"
       }
     },
     addsong: {
