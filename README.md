@@ -1,5 +1,5 @@
-# ScoutMusic-Lavalink
-LAVALINK BOT MADE BY TANVIR.
+# RazeenMusic-Lavalink
+LAVALINK BOT MADE BY Berlin.
 
 Fork the Repositry and add your bot token. Must turn on intents and run the code.
 Use /play to start playing the songs.
